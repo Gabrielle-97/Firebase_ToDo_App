@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "58563673616",
+    "project_id": "c302-l10-firebase",
+    "storage_bucket": "c302-l10-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58563673616:android:bf64fee6750c728de1d495",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19020303.c302firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58563673616-2o60el23dbsqa0n5q86u2cqj5s6rjg2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhvIYdrzuEW_8zKOXfqmCs3UcxP8lm7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58563673616-2o60el23dbsqa0n5q86u2cqj5s6rjg2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58563673616:android:7ec7fb6e844b03d0e1d495",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19020303.firebasetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58563673616-2o60el23dbsqa0n5q86u2cqj5s6rjg2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhvIYdrzuEW_8zKOXfqmCs3UcxP8lm7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58563673616-2o60el23dbsqa0n5q86u2cqj5s6rjg2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
